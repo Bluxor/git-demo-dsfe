@@ -1,0 +1,126 @@
+    1  ls
+    2  mkdir 'act1'
+    3  ls
+    4  mkdir act1
+    5  cd act1
+    6  man mkdir
+    7  man mkdir
+    8  mkdir man
+    9  ls
+   10  mkdir folder
+   11  ls
+   12  cd folder
+   13  ls
+   14  mkdir subfolder
+   15  ls
+   16  touch text.txt
+   17  ls
+   18  touch act1
+   19  ls
+   20  touch.txt
+   21  touch act1.txt
+   22  ls
+   23  echo 'holi' > act1.txt
+   24  ls
+   25  cp act1.txt
+   26  cp --help
+   27  cp act1.txt act1
+   28  .
+   29  cd.
+   30  cd.
+   31  cd .
+   32  cd ..
+   33  ls
+   34  cp act1.txt act1
+   35  ls
+   36  cd folder
+   37  ls
+   38  cp text.txt /act1
+   39  cp text.txt /act1
+   40  ..
+   41  cd..
+   42  cd..
+   43   cd ..
+   44  ls
+   45  cd folder
+   46  ls
+   47  cd --help
+   48  cp --help
+   49  cd ..
+   50  mkdir -p folder2/subfolder2
+   51  ls
+   52  cd subfolder2
+   53  cd folder2
+   54  ls
+   55  cd subfolder2
+   56  echo "hola mundo" > act.txt
+   57  ls
+   58  cp ./act.txt ../../
+   59  touch act2.txt
+   60  history > act2.txt
+   61  cp act2.txt ~/act1
+   62  cd ~act1
+   63  cd ~/act1
+   64  ls
+   65  sudo chmod 777 act1.txt
+   66  sudo chmod 777 act.txt
+   67  sudo chmod 777 act.txt
+   68  sudo chmod 777 act.txt
+   69  rm folder
+   70  ls
+   71  rm -r folder
+   72  ls
+   73  rm -r act1
+   74  cd ..
+   75  ls
+   76  rm -r act1
+   77  mkdir Data_Science
+   78  cd Data:Science
+   79  cd Data_Science
+   80  git clone https://github.com/Bluxor/git-demo-dsfe.git
+   81  ls
+   82  cd git-demo-dsfe/
+   83  git checkout -b add-demo-files
+   84  ls
+   85  touch helloworld.py
+   86  ls
+   87  mkdir secrets
+   88  ls
+   89  touch secret.txt
+   90  ls
+   91  rm secret.txt
+   92  ls
+   93  cd secrets
+   94  ls
+   95  touch secrets.txt
+   96  ls
+   97  ls -a
+   98  cd ..
+   99  commit 
+  100  commit --h
+  101  man git
+  102  man git-add
+  103  man cd
+  104  git-add --help
+  105  git-add --h
+  106  cp --f
+  107  cp --help
+  108  git-add --help
+  109  git --help
+  110  git help add
+  111  commit help
+  112  commit help add
+  113  git help commit
+  114  git commit
+  115  git config --global user.email "blumenkron@gmail.com"
+  116  git config --global user.name "Bluxor"
+  117  git commit
+  118  git add .
+  119  git commit
+  120  git status
+  121  git push
+  122  git push origin add-demo-files
+  123  git checkout main
+  124  git pull
+  125  ls
+  126  history > clase1_history.txt
